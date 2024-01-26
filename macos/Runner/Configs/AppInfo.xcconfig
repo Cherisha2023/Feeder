@@ -1,0 +1,8 @@
+
+PRODUCT_NAME = food_delivery
+
+// The application's bundle identifier
+PRODUCT_BUNDLE_IDENTIFIER = com.codeforany.foodDelivery
+
+// The copyright displayed in application information
+PRODUCT_COPYRIGHT = Copyright © 2023 com.cherish. All rights reserved.
